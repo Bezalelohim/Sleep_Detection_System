@@ -37,7 +37,7 @@ Special thanks to the MediaPipe team for their excellent face detection and land
 This system is a proof of concept and should not be used as the sole means of ensuring driver safety. Always follow local regulations and safety guidelines regarding commercial vehicle operation.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License 
 
 ## Contributors
 - Bezalelohim
